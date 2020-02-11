@@ -24,11 +24,12 @@ function johnLennonFacts(facts) {
 
 function iLovetheBeatles(){
   var array = [];
+  
 }
 do {
     console.log("I love the Beatles!");
     return array;
-    i = 15;
+    
     i++; (incrementVariable() < num);
 } while;
 return array
