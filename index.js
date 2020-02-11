@@ -25,7 +25,6 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(){
   var array = [];
   i = 15;
-{
 do {
     console.log("I love the Beatles!");
     return i++;
@@ -34,17 +33,6 @@ return array
 }
 }
 
-/*
-
-function doWhileLoop(num){
-  i = 0;
-  
-do {
-  console.log("I run once regardless.");
-  return i++;
-} while (incrementVariable() <= num);
-}
-*/
 
 
 
