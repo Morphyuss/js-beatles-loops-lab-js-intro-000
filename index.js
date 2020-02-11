@@ -29,6 +29,7 @@ do {
     console.log("I love the Beatles!");
     return i++;
   } while (num < 15);
+    console.log(array)
 return array
 }
 
