@@ -27,9 +27,9 @@ function iLovetheBeatles(){
   i = 15;
 {
 do {
-    console.log("I love the Beatles");
+    console.log("I love the Beatles!");
     return i++;
-  } while((i) > num);
+  } while num < i;
 return array
 }
 }
