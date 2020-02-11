@@ -27,12 +27,25 @@ function iLovetheBeatles(){
 }
 do {
     console.log("I love the Beatles!");
+    return array;
     i = 15;
     i++; (incrementVariable() < num);
 } while;
 return array
 }
 
+
+/*
+
+function doWhileLoop(num){
+  i = 0;
+  
+do {
+  console.log("I run once regardless.");
+  return i++;
+} while (incrementVariable() <= num);
+}
+*/
 
 
 
