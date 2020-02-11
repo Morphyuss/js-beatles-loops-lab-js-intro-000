@@ -31,7 +31,6 @@ do {
   } while (num < 15);
 return array
 }
-}
 
 
 
